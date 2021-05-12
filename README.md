@@ -7,8 +7,6 @@ I'm Mateus, a Computer Engineering undergraduate, and an aspiring web developer.
 - 🏳️‍🌈LGBTQ+ rights 
 - Can't choose between black coffee and lemon tea
 
-#### Connect with me
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/lemonteus)](https://github.com/lemonteus)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lemontea/)](https://www.linkedin.com/in/lemontea/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:thiago.fdornelles@gmail.com)](mailto:lemonsmateus@gmail.com)
