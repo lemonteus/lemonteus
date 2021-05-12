@@ -6,9 +6,9 @@ I'm Mateus, a Computer Engineering undergraduate, and an aspiring web developer.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lemontea/)](https://www.linkedin.com/in/lemontea/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:thiago.fdornelles@gmail.com)](mailto:lemonsmateus@gmail.com)
 
-- 👨‍🦱Pronouns: he/him
+- 👨‍🦱 Pronouns: he/him
 - 🇧🇷 Based in Brazil
-- 🏳️‍🌈LGBTQ+ rights 
+- 🏳️‍🌈 LGBTQ+ rights 
 - Can't choose between black coffee and lemon tea
 
 #### 🚀 What did I use / am currently using right now?
