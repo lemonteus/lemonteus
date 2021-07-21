@@ -11,7 +11,7 @@ I'm Mateus, a Computer Engineering undergraduate, and an aspiring web developer.
 - 🏳️‍🌈 LGBTQ+ rights 
 - Can't choose between black coffee and lemon tea
 
-#### 🚀 What did I use / am currently using right now?
+#### 🚀 What do I have experience with?
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
