@@ -9,7 +9,6 @@ I'm Mateus, a Computer Engineering undergraduate, and an aspiring web developer.
 - 👨‍🦱 Pronouns: he/him
 - 🇧🇷 Based in Brazil
 - 🏳️‍🌈 LGBTQ+ rights 
-- Can't choose between black coffee and lemon tea
 
 #### 🚀 What do I have experience with?
 
